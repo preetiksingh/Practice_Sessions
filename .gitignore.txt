@@ -1,4 +1,0 @@
-.project
-.pydevproject
-ab22.xml
-cd22.xml
